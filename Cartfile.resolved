@@ -1,2 +1,2 @@
 github "BoltsFramework/Bolts-ObjC" "1.8.4"
-github "arturgrigor/facebook-ios-sdk" "sdk-version-4.20.3"
+github "facebook/facebook-ios-sdk" "sdk-version-4.21.0"
